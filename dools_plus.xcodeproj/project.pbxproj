@@ -13,6 +13,9 @@
 		02FE8FC826FEC42700E4BC89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02FE8FC626FEC42700E4BC89 /* Main.storyboard */; };
 		02FE8FCA26FEC42800E4BC89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02FE8FC926FEC42800E4BC89 /* Assets.xcassets */; };
 		02FE8FCD26FEC42800E4BC89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02FE8FCB26FEC42800E4BC89 /* LaunchScreen.storyboard */; };
+		02FE8FD526FED04900E4BC89 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD426FED04900E4BC89 /* Constants.swift */; };
+		02FE8FD726FED58000E4BC89 /* video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD626FED58000E4BC89 /* video.swift */; };
+		02FE8FD926FED5F800E4BC89 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD826FED5F800E4BC89 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		02FE8FC926FEC42800E4BC89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02FE8FCC26FEC42800E4BC89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02FE8FCE26FEC42800E4BC89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02FE8FD426FED04900E4BC89 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		02FE8FD626FED58000E4BC89 /* video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video.swift; sourceTree = "<group>"; };
+		02FE8FD826FED5F800E4BC89 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				02FE8FC926FEC42800E4BC89 /* Assets.xcassets */,
 				02FE8FCB26FEC42800E4BC89 /* LaunchScreen.storyboard */,
 				02FE8FCE26FEC42800E4BC89 /* Info.plist */,
+				02FE8FD426FED04900E4BC89 /* Constants.swift */,
+				02FE8FD626FED58000E4BC89 /* video.swift */,
+				02FE8FD826FED5F800E4BC89 /* Model.swift */,
 			);
 			path = dools_plus;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				02FE8FC526FEC42700E4BC89 /* ViewController.swift in Sources */,
 				02FE8FC126FEC42700E4BC89 /* AppDelegate.swift in Sources */,
 				02FE8FC326FEC42700E4BC89 /* SceneDelegate.swift in Sources */,
+				02FE8FD926FED5F800E4BC89 /* Model.swift in Sources */,
+				02FE8FD526FED04900E4BC89 /* Constants.swift in Sources */,
+				02FE8FD726FED58000E4BC89 /* video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
