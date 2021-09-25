@@ -16,6 +16,7 @@
 		02FE8FD526FED04900E4BC89 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD426FED04900E4BC89 /* Constants.swift */; };
 		02FE8FD726FED58000E4BC89 /* video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD626FED58000E4BC89 /* video.swift */; };
 		02FE8FD926FED5F800E4BC89 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FD826FED5F800E4BC89 /* Model.swift */; };
+		02FE8FDB26FEE77600E4BC89 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FE8FDA26FEE77600E4BC89 /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		02FE8FD426FED04900E4BC89 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		02FE8FD626FED58000E4BC89 /* video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video.swift; sourceTree = "<group>"; };
 		02FE8FD826FED5F800E4BC89 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		02FE8FDA26FEE77600E4BC89 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				02FE8FD426FED04900E4BC89 /* Constants.swift */,
 				02FE8FD626FED58000E4BC89 /* video.swift */,
 				02FE8FD826FED5F800E4BC89 /* Model.swift */,
+				02FE8FDA26FEE77600E4BC89 /* Response.swift */,
 			);
 			path = dools_plus;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				02FE8FD926FED5F800E4BC89 /* Model.swift in Sources */,
 				02FE8FD526FED04900E4BC89 /* Constants.swift in Sources */,
 				02FE8FD726FED58000E4BC89 /* video.swift in Sources */,
+				02FE8FDB26FEE77600E4BC89 /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
